@@ -51,3 +51,10 @@
    ```
 
    API 将在 `http://0.0.0.0:8000/api/dify/receive` 上可用。
+2. **在 Dify 配置该 API**
+   ![image](https://github.com/user-attachments/assets/d085ed10-4641-4824-8839-dd3551acb0f4)
+3. **在 App 中选择该 API 扩展**
+   ![image](https://github.com/user-attachments/assets/8a8d8d26-b8cb-4514-8504-855aa2e896a1)
+
+
+
